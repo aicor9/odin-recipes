@@ -1,0 +1,1 @@
+This is a recipes project that will help me familiarize myself with html and css
